@@ -12,6 +12,8 @@ def get_model():
         print("     Topography Composite Network Model Load Finished!")
     else:
         print("     downloading Topography Composite Network Model...")
+        print(f"if download raise error, please download manually in {str(Path(__file__).parent.absolute())+'./composite_net.pt'}. "
+              f"The download link is 'https://drive.google.com/file/d/1nJH8Ut1k7lT-qG7OYRTCixxmr54-ZDEw'", )
         gdown.download(id="1nJH8Ut1k7lT-qG7OYRTCixxmr54-ZDEw", output=str(Path(__file__).parent.absolute()) + "./composite_net.pt")
         # download_file_from_google_drive(id='1nJH8Ut1k7lT-qG7OYRTCixxmr54-ZDEw',
         #                                 destination=str(Path(__file__).parent.absolute()) + "./composite_net.pt")

@@ -1,0 +1,8 @@
+Please download and extract experiment data here.
+
+Download link:
+https://drive.google.com/file/d/1uGdaqvfWmiSQSYxhMuVd0FA5hcvpdWRY/view?usp=sharing
+
+
+This directory should have folders with name:
+"si_20230506/", "si_20230719_roists/", "si_20230720_roists/", "si_20230721_roists/"
