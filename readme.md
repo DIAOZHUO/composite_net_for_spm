@@ -36,4 +36,8 @@ Then install the other requirement package.
 pip install -r requirements.txt
 ```
 
+### Citation
+We will be appreciated if you can cite our work!
+
+Z. Diao, K. Ueda, L. Hou, F. Li, H. Yamashita, M. Abe, AI-Equipped Scanning Probe Microscopy for Autonomous Site-Specific Atomic-Level Characterization at Room Temperature. Small Methods 2024, 2400813. https://doi.org/10.1002/smtd.202400813
 
